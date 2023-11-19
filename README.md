@@ -1,6 +1,7 @@
 # storybook-modulo7
 
 # comandos:
+npm install
 En la carpeta storrybook
 npm init -y
 npx storybook@latest init
